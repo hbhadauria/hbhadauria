@@ -6,12 +6,18 @@
 ![GitHub followers](https://img.shields.io/github/followers/hbhadauria?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=hbhadauria.hbhadauria)
 
-- :computer: I’m Software Engineer at [Deloitte](https://www2.deloitte.com/in/en.html).
-<!-- - 🌱 I’m currently learning backend, cloud tech stack and related stuff. -->
-- 👯 I’m looking to collaborate on open source projects.
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white), ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white), C# or anything.
-- 📫 How to reach me: [email](mailto:harshitbhadauria@gmail.com)
-- 😄 Pronouns: he/him/his
-<!-- - ⚡ Fun fact: ... -->
+- I’m Software Engineer at [Deloitte](https://www2.deloitte.com/in/en.html).
+- Pronouns: he/him/his
+- Ask me about Xamarin, .Net, C# or anything.
+- How to reach me: [gmail](mailto:harshitbhadauria@gmail.com)  
+or  
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
+<a href="https://calendly.com/harshitbhadauria/30min" target="_blank"><img width="498" alt="calendly" src="https://user-images.githubusercontent.com/25990956/153130558-12aead26-7e7a-4a75-bca4-a8ba7c47902d.png"></a>
+
+
+<!-- - I’m looking to collaborate on open source projects and new learnings. -->
+<!-- - ⚡ Fun fact: ... -->
+<!-- - 🌱 I’m currently learning backend, cloud tech stack and related stuff. -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white), ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white), C# or anything. -->

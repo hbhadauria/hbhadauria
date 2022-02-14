@@ -11,7 +11,7 @@
 - Ask me about Xamarin, .Net, C# or anything.
 - How to reach me: [gmail](mailto:harshitbhadauria@gmail.com)  
 or  
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Pick a slot if you'd like to meet me and chat about anything - but make sure to describe the agenda.
 
 <a href="https://calendly.com/harshitbhadauria/30min" target="_blank"><img width="498" alt="calendly" src="https://user-images.githubusercontent.com/25990956/153130558-12aead26-7e7a-4a75-bca4-a8ba7c47902d.png"></a>
 

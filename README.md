@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hbhadauria.hbhadauria)
 
 - I’m Software Engineer at [Deloitte](https://www2.deloitte.com/in/en.html).
-- Pronouns: he/him/his
+<!-- - Pronouns: he/him/his -->
 - Ask me about Xamarin, .Net, C# or anything.
 - How to reach me: [gmail](mailto:harshitbhadauria@gmail.com)  
 <!-- or  

@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-- 💼 Tech Solution Architect at [Deloitte](https://www2.deloitte.com/in/en.html)
 - 🏗️ Designing and architecting enterprise-scale solutions
 - 💻 Expert in .NET, C#, and Microsoft technologies
 - 🤖 AI Enthusiast leveraging LLMs and automation for rapid development

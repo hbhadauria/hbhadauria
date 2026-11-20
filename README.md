@@ -1,12 +1,14 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Harshit Bhadauria
 
-### Tech Solution Architect | .NET Specialist | AI Enthusiast
+### Tech Solution Architect
+*Designing Scalable Systems · Shipping Faster with AI*
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_hbhadauria?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/intent/follow?screen_name=iam_hbhadauria)
-[![LinkedIn](https://img.shields.io/badge/-harshitbhadauria-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshitbhadauria/)
-[![GitHub followers](https://img.shields.io/github/followers/hbhadauria?label=Follow&style=for-the-badge&logo=github&color=black)](https://github.com/hbhadauria)
+[![HSB Learnings](https://img.shields.io/badge/HSB_Learnings-hbhadauria.github.io-4F46E5?style=flat)](https://hbhadauria.github.io)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-harshitbhadauria-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/harshitbhadauria/)
+[![X](https://img.shields.io/badge/Follow-%40iam__hbhadauria-181717?style=flat&logo=x&logoColor=white)](https://twitter.com/iam_hbhadauria)
+[![GitHub followers](https://img.shields.io/github/followers/hbhadauria?label=Follow&style=flat&logo=github&color=181717)](https://github.com/hbhadauria)
 
 </div>
 
@@ -14,91 +16,61 @@
 
 ## 🚀 About Me
 
-- 🏗️ Designing and architecting enterprise-scale solutions
-- 💻 Expert in .NET, C#, and Microsoft technologies
-- 🤖 AI Enthusiast leveraging LLMs and automation for rapid development
-- 🐍 Python developer for AI/ML workflows and automation
-- ☁️ Building cloud-native applications and microservices
-- ⚡ Passionate about DevOps, CI/CD, and automation
-- 💬 Ask me about .NET, C#, Architecture patterns, or anything tech-related!
+- 🏗️ **Solution Architecture** — Designing enterprise-scale distributed systems with DDD, microservices, and event-driven patterns
+- 🤖 **AI-Assisted Engineering** — Spec-driven LLM workflows, interactive prototypes, explicit ADRs, and strict quality gates
+- ☁️ **Cloud & Distributed Systems** — Building resilient cloud-native workloads across AWS and Azure with Docker, Kubernetes, and Dapr
+- ⚡ **DevOps & Quality Gates** — Automated CI/CD pipelines, unit/UI test suites, and zero-touch releases
+- 🧭 Full background & operating principles on [HSB Learnings → About](https://hbhadauria.github.io/about/)
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Work & Writing
 
-### 🤖 AI-Powered Development
-Leveraging AI and LLMs to accelerate software development and automation.
+### 📱 [CalcHub](https://github.com/hbhadauria/CalcHub) · v3.0.0
 
-- 📝 **[Blog: From Idea to App Store](https://hbhadauria.github.io)** - Built a mobile app in 24 hours using AI-assisted development
-- 🚀 Utilizing AI coding assistants for rapid prototyping and development
-- 🧠 Exploring LLM integration in enterprise applications
-- 🔧 Automating workflows with Python and AI tools
+[![Google Play](https://img.shields.io/badge/Google_Play-v3.0.0-0F9D76?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hsb.calchub)
+[![Case Study](https://img.shields.io/badge/Case_Study-HSB_Learnings-4F46E5?style=flat)](https://hbhadauria.github.io/projects/calchub/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-334155?style=flat)](https://github.com/hbhadauria/CalcHub)
 
-### 📱 [CalcHub](https://github.com/hbhadauria/CalcHub)
-A modern mobile calculator application featuring multiple calculation modes.
+Offline-first Android financial calculator app — live on [Google Play](https://play.google.com/store/apps/details?id=com.hsb.calchub) · [Case Study](https://hbhadauria.github.io/projects/calchub/) · MIT licensed.
 
-- 🎨 Beautiful, intuitive user interface
-- 🧮 Multiple calculator types (Scientific, Programmer, Unit Converter, etc.)
-- ✨ Smooth animations and responsive design
-- 🎯 Comprehensive test coverage
-- 🔄 Automated CI/CD pipeline
+- 🧮 **34 calculators across 6 categories** — Investment, Loan, Retirement, Tax & Salary, Trading, and Government Schemes
+- 🔒 **Zero network permissions (`INTERNET=False`)** — No analytics, no tracking, 100% local on-device storage
+- 🎨 **Modern Android stack** — Kotlin, Jetpack Compose, Material 3 Expressive (*Expressive Aurora*), Jetpack Navigation 3, and custom Compose Canvas charts
+- ✅ **Automated quality gates** — 34 unit suites / 55 JVM + Robolectric tests, on-device Espresso/Compose checks, and automated CI/CD
+
+### 📝 [HSB Learnings](https://hbhadauria.github.io)
+
+Personal engineering notes & portfolio — featuring the **[AI-Assisted Engineering](https://hbhadauria.github.io/series/)** series:
+
+- [Part 1 — From Idea to App Store: How I Built a Mobile App in 24 Hours (Without Coding)](https://hbhadauria.github.io/posts/from-idea-to-app-store-how-i-built-a-mobile-app-in-24-hours-without-coding/)
+- [Part 2 — From 24-Hour Prototype to CalcHub v3.0: Redesigning an Android App with AI & Strict Quality Gates](https://hbhadauria.github.io/posts/calchub-v3-redesign-with-ai/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Toolbelt & Stack
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### AI & Coding Assistants
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9966?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### Frameworks & Platforms
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![MVVMCross](https://img.shields.io/badge/MVVMCross-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![Dapr](https://img.shields.io/badge/Dapr-0d2192?style=for-the-badge&logo=dapr&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+| Area | Stack |
+| :--- | :--- |
+| **Languages & Frameworks** | `C#` `.NET` `ASP.NET` `Kotlin` `Jetpack Compose` `.NET MAUI` `Python` `TypeScript` `JavaScript` |
+| **Cloud & Infrastructure** | `AWS` `Azure` `Docker` `Kubernetes` `Dapr` `GitHub Actions` `Azure DevOps` `SQL Server` |
+| **AI & Coding Workflows** | `Antigravity` `Claude` `Gemini` `GitHub Copilot` `Cursor` `OpenAI` `Ollama` `Perplexity` |
+| **Patterns & Practices** | `Microservices` `Event-Driven` `DDD` `MVVM` `ADR-Driven Design` `CI/CD` `TDD` |
 
 ---
 
 ## 🌱 Currently
 
-- 🤖 Exploring/Learning AI/ML integration in enterprise applications
-- 🏗️ Designing microservices architectures and distributed systems
-- 🚀 Contributing to open source projects
-- ☁️ Exploring cloud-native patterns on AWS
-- 📝 Writing about AI-assisted development on my [blog](https://hbhadauria.github.io)
-- ⚙️ Mastering CI/CD pipelines and DevOps practices. Implementing DevOps best practices and automation
+- 🏗️ Architecting enterprise distributed systems and cloud-native workloads on AWS & Azure
+- 🤖 Refining spec-driven AI engineering workflows (ADRs, interactive prototypes, automated quality gates)
+- 📝 Writing the [AI-Assisted Engineering](https://hbhadauria.github.io/series/) series on [HSB Learnings](https://hbhadauria.github.io)
+- ⚙️ Advancing CI/CD automation, testing gates, and DevOps practices
 
 ---
 
-## 💡 Open Source Contributions
+## 💡 Open Source
 
-I believe in giving back to the community! Check out my repositories and feel free to contribute or raise issues.
-
-⭐️ **If you like my work, consider giving a star to my repositories!**
+I share open-source apps, notes, and engineering learnings along the way. Feel free to explore my repositories, open issues, or leave a ⭐️ if you find something useful.
 
 ---
 
@@ -106,12 +78,13 @@ I believe in giving back to the community! Check out my repositories and feel fr
 
 ### 📫 Let's Connect!
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_hbhadauria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitbhadauria/)
+[![HSB Learnings](https://img.shields.io/badge/HSB_Learnings-hbhadauria.github.io-4F46E5?style=flat)](https://hbhadauria.github.io)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-harshitbhadauria-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/harshitbhadauria/)
+[![X](https://img.shields.io/badge/Follow-%40iam__hbhadauria-181717?style=flat&logo=x&logoColor=white)](https://twitter.com/iam_hbhadauria)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hbhadauria&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=hbhadauria&label=Profile+Views&color=4F46E5&style=flat)
 
 **Thanks for stopping by! 😊**
 
